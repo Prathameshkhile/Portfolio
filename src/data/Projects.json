@@ -1,0 +1,16 @@
+[
+  {
+    "title": "Cloud Library Management System",
+    "imageSrc": "projects/image2.png",
+    "discription": "SetupLib is an innovative web application that allows users to search for any book and conveniently borrow it to their address.",
+    "skills": ["BootStrap", "Nodejs", "Expressjs", "MySQL"],
+    "demo": "https://setuplib.onrender.com/"
+  },
+  {
+    "title": "Portfolio",
+    "imageSrc": "projects/portfolio.png",
+    "discription": "Explore my portfolio website to discover a showcase of my skills and expertise in ReactJS. Dive into my projects, see my work in action, and get to know more about my professional journey",
+    "skills": ["ReactJs"],
+    "demo": ""
+  }
+]
