@@ -7,8 +7,9 @@ export const Hero = () => {
       <div className={styles.content}>
         <h1 className={styles.title}>Hi, I'm Prathamesh khile</h1>
         <p className={styles.description}>
-          I'm a fresher, I have been using React, Javascript, Nodejs, Mysql for
-          Full stack development. Reach out if you like to learn more!
+          I'm a fresher, I have been using Solidity, React, Javascript, Nodejs,
+          Mysql for Full stack development and web3 development. Reach out if
+          you like to learn more!
         </p>
         <a className={styles.contactBtn} href="mailto:pvkhile@gmail.com">
           Contact Me
@@ -16,7 +17,7 @@ export const Hero = () => {
       </div>
       <img
         className={styles.heroImg}
-        src={getImageurl("hero/heroImage2.png")}
+        src={getImageurl("hero/Hero.png")}
         alt=""
       />
       <div className={styles.topBlur} />

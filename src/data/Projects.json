@@ -1,5 +1,12 @@
 [
   {
+    "title": "CryptoBank : Bank on the Blockchain",
+    "imageSrc": "projects/Cryptobank.png",
+    "discription": "A fully deployed borrowing and lending platform built on the Sepolia Ethereum Network with a seamless frontend hosted on Render.com.",
+    "skills": ["Solidity", "Nodejs", "ReactJs", "Hardhat"],
+    "demo": "https://cryptobank-qsec.onrender.com/"
+  },
+  {
     "title": "Cloud Library Management System",
     "imageSrc": "projects/image2.png",
     "discription": "SetupLib is an innovative web application that allows users to search for any book and conveniently borrow it to their address.",

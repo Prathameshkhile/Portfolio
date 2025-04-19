@@ -14,6 +14,16 @@ export const About = () => {
         />
         <ul className={styles.aboutMenu}>
           <li className={styles.aboutItem}>
+            <img src={getImageurl("about/ether.png")} alt="" />
+            <div className={styles.aboutItemText}>
+              <h3>Blockchain Development</h3>
+              <p>
+                I have Expierence building Decentralised Application in Etherium
+                usin smart contract - Solidity
+              </p>
+            </div>
+          </li>
+          <li className={styles.aboutItem}>
             <img src={getImageurl("about/cursorIcon.png")} alt="" />
             <div className={styles.aboutItemText}>
               <h3>Front-End Development</h3>
