@@ -24,7 +24,7 @@
     font-weight: 900;
     margin: 33px;
     font-family: var(--font-roboto);
-    background: linear-gradient(90deg, rgba(255, 255, 255, 1)40%, rgba(0, 0, 0, 0)120%);
+    background: linear-gradient(90deg, rgba(255, 255, 255, 1) 40%, rgba(0, 0, 0, 0) 120%);
     -webkit-text-fill-color: transparent;
     -webkit-background-clip: text;
 
